@@ -15,8 +15,8 @@ If it's not installed, you can use [asdf](https://asdf-vm.com/) to manage Java v
 
 ```sh
 asdf plugin add java
-asdf install java openjdk-17
-asdf global java openjdk-17
+asdf install java openjdk-21
+asdf global java openjdk-21
 ```
 
 ## 🚀 How to Run the Files
