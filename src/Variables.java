@@ -11,7 +11,7 @@ class Variables {
         int b = scanner.nextInt();
 
         int sum = a + b;
-        System.out.printf("The sum of %d + %d = %d\n", a, b,  sum);
+        System.out.printf("The sum of %d + %d = %d\n", a, b, sum);
 
         scanner.close();
     }
